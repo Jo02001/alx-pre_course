@@ -1,5 +1,4 @@
 My first readme
-^C
-	
+edited 	
 cear
 clear
